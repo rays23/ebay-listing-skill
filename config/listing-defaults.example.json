@@ -1,0 +1,24 @@
+{
+  "marketplaceId": "EBAY_DE",
+  "currency": "EUR",
+  "insuredShippingFromEur": 100,
+  "merchantLocationKey": "home",
+  "paymentPolicyId": "<PAYMENT_POLICY_ID>",
+  "returnPolicyId": "<RETURN_POLICY_ID>",
+  "fulfillmentPolicyIds": {
+    "S": "<FULFILLMENT_POLICY_ID_S>",
+    "M": "<FULFILLMENT_POLICY_ID_M>",
+    "L": "<FULFILLMENT_POLICY_ID_L>",
+    "XL": "<FULFILLMENT_POLICY_ID_XL>",
+    "XXL": "<FULFILLMENT_POLICY_ID_XXL>",
+    "XXXL": "<FULFILLMENT_POLICY_ID_XXXL>"
+  },
+  "fulfillmentPolicyNames": {
+    "S": "Versand S – DHL Päckchen S",
+    "M": "Versand M – DHL Päckchen M",
+    "L": "Versand L – DHL Paket bis 5 kg",
+    "XL": "Versand XL – DHL Paket bis 10 kg",
+    "XXL": "Versand XXL – DHL Paket bis 20 kg",
+    "XXXL": "Versand XXXL – DHL Paket bis 31,5 kg"
+  }
+}

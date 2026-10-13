@@ -1,0 +1,10 @@
+{
+  "total": 5,
+  "itemSummaries": [
+    {"itemId": "v1|1|0", "title": "Sony WH-1000XM4 schwarz", "price": {"value": "189.00", "currency": "EUR"}},
+    {"itemId": "v1|2|0", "title": "Sony WH-1000XM4", "price": {"value": "205.50", "currency": "EUR"}},
+    {"itemId": "v1|3|0", "title": "Sony WH-1000XM4 CH", "price": {"value": "199.00", "currency": "CHF"}},
+    {"itemId": "v1|4|0", "title": "Sony WH-1000XM4 ohne Preis"},
+    {"itemId": "v1|5|0", "title": "Sony WH-1000XM4 blau", "price": {"value": "210.00", "currency": "EUR"}}
+  ]
+}

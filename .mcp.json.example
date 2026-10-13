@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ebay": {
+      "command": "node",
+      "args": ["node_modules/ebay-mcp/build/index.js"],
+      "env": {
+        "NO_UPDATE_NOTIFIER": "1",
+        "EBAY_MCP_UI": "off",
+        "EBAY_MCP_MEDIA_DIRS": "<ABSOLUTER_PFAD>/staging"
+      }
+    }
+  }
+}

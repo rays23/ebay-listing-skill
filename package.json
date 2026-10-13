@@ -1,0 +1,12 @@
+{
+  "name": "ebay-listing-skill",
+  "version": "0.1.0",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "ebay-mcp": "1.18.0"
+  },
+  "scripts": {
+    "postinstall": "ln -sf /dev/null node_modules/ebay-mcp/.env"
+  }
+}
